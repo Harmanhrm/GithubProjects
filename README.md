@@ -1,6 +1,6 @@
 
 <div align="center">
 
-<a href="https://github.com/2KAbhishek/projects">Source</a> | <a href="https://Harmanhrm.github.io/projects">Website</a>
+<a href="https://harmanhrm.github.io/GithubProjects/">Website</a>
 
 </div>
