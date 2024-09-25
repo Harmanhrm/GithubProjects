@@ -1,4 +1,3 @@
-## More Info
 
 <div align="center">
 
